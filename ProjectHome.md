@@ -1,0 +1,3 @@
+The objective of this project is to develop a Near Field Communication (NFC) based system which can be used to realise a ticketing and access control solution. The system will build on the work of previous years project: two projects in particular - one of which
+
+developed a Bluetooth based access control solution and one which developed a paypal based mobile payment solution. This project will involve integrating these two solutions and combining them with an NFC based access control mechanism.
